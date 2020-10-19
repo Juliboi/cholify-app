@@ -7,8 +7,8 @@
   "description": "A health app.",
   "icons": [
     {
-      "src": "./cholify-favicon.svg",
-      "sizes": "150x150",
+      "src": "./cholify-favicon-png.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     }
   ]
