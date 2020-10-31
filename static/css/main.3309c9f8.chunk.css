@@ -2,5 +2,5 @@ html{box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,"Segoe U
 
 /*! Create Recipe */.create-recipe{left:0;padding:0!important}.create-recipe__row{margin-top:5px;margin-bottom:15px}.create-recipe__row:last-child{margin-bottom:76px}.create-recipe__row h2{padding-left:30px}.create-recipe__slider{display:flex;overflow-x:scroll}.food-card{width:200px;max-width:200px;min-width:200px;margin:10px}.food-card .MuiCardContent-root{padding:4px 16px}.create-recipe__button{position:fixed!important;bottom:90px;right:30px}.MuiBox-root{padding:24px 0 0!important}
 
-/*! My Profile */.my-profile__head{display:flex;align-items:center}.my-profile__head h2{margin-left:1rem}
-/*# sourceMappingURL=main.056fc33a.chunk.css.map */
+/*! My Profile */.my-profile{padding-bottom:2rem}.my-profile__head{display:flex;align-items:center}.my-profile__head h2{margin-left:1rem}
+/*# sourceMappingURL=main.3309c9f8.chunk.css.map */
