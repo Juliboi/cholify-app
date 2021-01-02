@@ -5,4 +5,6 @@ html{box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,"Segoe U
 /*! My Profile */.my-profile{padding-bottom:3rem}.my-profile__head{display:flex;align-items:center}.my-profile__head h2{margin-left:1rem}
 
 /*! My Profile */
-/*# sourceMappingURL=main.543f08ff.chunk.css.map */
+
+/*! Menu section */.MuiTypography-root.MuiTypography-body1{min-height:75vh}
+/*# sourceMappingURL=main.3d4ae9bb.chunk.css.map */
