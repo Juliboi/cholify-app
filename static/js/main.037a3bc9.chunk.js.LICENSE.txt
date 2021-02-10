@@ -1,5 +1,0 @@
-//! Fatty acids comparison, Vitamin and Mineral consumption comparison
-
-//! Macro
-
-//! Vitamins and minerals => check the unit system
