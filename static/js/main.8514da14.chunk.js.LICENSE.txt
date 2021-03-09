@@ -1,0 +1,5 @@
+//! Macro
+
+//! Unifiy all modal windows => one modal and pass content as {child} prop
+
+//! Vitamins and minerals => check the unit system
