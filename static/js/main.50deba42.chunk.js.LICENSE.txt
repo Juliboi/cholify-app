@@ -1,0 +1,11 @@
+//! Macro
+
+//! Unifiy all modal windows => one modal and pass content as {child} prop
+
+//! calculate it properly with all the other fats subctracted from this value
+
+//! check if eating no saturated fat can be bad
+
+//! make it dynamic with any value not only fat
+
+//!check if correct for carbs

@@ -1,5 +1,0 @@
-//! Macro
-
-//! Unifiy all modal windows => one modal and pass content as {child} prop
-
-//!check if correct for carbs
