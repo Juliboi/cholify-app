@@ -6,6 +6,8 @@
 
 //! check if eating no saturated fat can be bad
 
+//! in smaller values like mcg => dont floor the number
+
 //! make it dynamic with any value not only fat
 
 //!check if correct for carbs
