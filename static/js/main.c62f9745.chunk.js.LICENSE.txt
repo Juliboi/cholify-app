@@ -1,4 +1,8 @@
+//! Kure
+
 //! Macro
+
+//! Mleko
 
 //! Unifiy all modal windows => one modal and pass content as {child} prop
 
