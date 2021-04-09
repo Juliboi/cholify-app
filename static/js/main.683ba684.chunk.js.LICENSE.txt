@@ -1,12 +1,6 @@
-//! Kure => footstuff
-
 //! Macro
 
 //! Mleko => liquid více variant
-
-//! Mleko => zadne varianty varianta
-
-//! Old structure
 
 //! Unifiy all modal windows => one modal and pass content as {child} prop
 
