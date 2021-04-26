@@ -18,4 +18,8 @@
 
 //!check if correct for carbs
 
+//!milk shows as 1000g instead od ml
+
+//!redo the unit system
+
 //!write own style on h3
