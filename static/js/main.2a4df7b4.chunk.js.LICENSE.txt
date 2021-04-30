@@ -1,6 +1,12 @@
+//! Brokolice
+
+//! Květák
+
 //! Macro
 
 //! Mleko => liquid více variant
+
+//! Paprika červená
 
 //! Unifiy all modal windows => one modal and pass content as {child} prop
 
