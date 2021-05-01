@@ -1,3 +1,9 @@
+//! 1 calorie?
+
+//! 1,5% needed
+
+//! 24? => za kus
+
 //! Brokolice
 
 //! Květák
@@ -8,6 +14,8 @@
 
 //! Paprika červená
 
+//! Run 1
+
 //! Unifiy all modal windows => one modal and pass content as {child} prop
 
 //! calculate it properly with all the other fats subctracted from this value
@@ -16,16 +24,32 @@
 
 //! check if eating no saturated fat can be bad
 
+//! fat same? => other values same as well
+
 //! in smaller values like mcg => dont floor the number
+
+//! kousky nebo cely
 
 //! make it dynamic with any value not only fat
 
+//! microgramy na IU
+
+//! might be wrong data => my research?
+
+//! package remove
+
+//! price??
+
 //! real chicken
+
+//! rohlik 250g => za dva
 
 //!check if correct for carbs
 
 //!milk shows as 1000g instead od ml
 
 //!redo the unit system
+
+//!vitamin C 48.2
 
 //!write own style on h3
