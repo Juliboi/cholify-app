@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./create-recipe/static/css/main.a4b6fd4d.chunk.css",
-    "main.js": "./create-recipe/static/js/main.34f26b31.chunk.js",
-    "main.js.map": "./create-recipe/static/js/main.34f26b31.chunk.js.map",
-    "runtime-main.js": "./create-recipe/static/js/runtime-main.203d2816.js",
-    "runtime-main.js.map": "./create-recipe/static/js/runtime-main.203d2816.js.map",
-    "static/js/2.26059f71.chunk.js": "./create-recipe/static/js/2.26059f71.chunk.js",
-    "static/js/2.26059f71.chunk.js.map": "./create-recipe/static/js/2.26059f71.chunk.js.map",
-    "index.html": "./create-recipe/index.html",
-    "precache-manifest.bb77fb387c6271cec7c117df06e31412.js": "./create-recipe/precache-manifest.bb77fb387c6271cec7c117df06e31412.js",
-    "service-worker.js": "./create-recipe/service-worker.js",
-    "static/css/main.a4b6fd4d.chunk.css.map": "./create-recipe/static/css/main.a4b6fd4d.chunk.css.map",
-    "static/js/2.26059f71.chunk.js.LICENSE.txt": "./create-recipe/static/js/2.26059f71.chunk.js.LICENSE.txt",
-    "static/js/main.34f26b31.chunk.js.LICENSE.txt": "./create-recipe/static/js/main.34f26b31.chunk.js.LICENSE.txt",
-    "static/media/cholify-web-logo.svg": "./create-recipe/static/media/cholify-web-logo.5fb748c0.svg"
+    "main.css": "./static/css/main.a4b6fd4d.chunk.css",
+    "main.js": "./static/js/main.8afec54d.chunk.js",
+    "main.js.map": "./static/js/main.8afec54d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4ffa4d21.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4ffa4d21.js.map",
+    "static/js/2.5c78c19f.chunk.js": "./static/js/2.5c78c19f.chunk.js",
+    "static/js/2.5c78c19f.chunk.js.map": "./static/js/2.5c78c19f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d7ab0fee8fc27dc249700160d10fd379.js": "./precache-manifest.d7ab0fee8fc27dc249700160d10fd379.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.a4b6fd4d.chunk.css.map": "./static/css/main.a4b6fd4d.chunk.css.map",
+    "static/js/2.5c78c19f.chunk.js.LICENSE.txt": "./static/js/2.5c78c19f.chunk.js.LICENSE.txt",
+    "static/js/main.8afec54d.chunk.js.LICENSE.txt": "./static/js/main.8afec54d.chunk.js.LICENSE.txt",
+    "static/media/cholify-web-logo.svg": "./static/media/cholify-web-logo.5fb748c0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.203d2816.js",
-    "static/js/2.26059f71.chunk.js",
+    "static/js/runtime-main.4ffa4d21.js",
+    "static/js/2.5c78c19f.chunk.js",
     "static/css/main.a4b6fd4d.chunk.css",
-    "static/js/main.34f26b31.chunk.js"
+    "static/js/main.8afec54d.chunk.js"
   ]
 }
