@@ -1,6 +1,10 @@
 //! Brokolice
 
+//! Cuketa
+
 //! Hovězí
+
+//! Jahoda
 
 //! Krůtí maso
 
@@ -13,6 +17,8 @@
 //! Paprika červená
 
 //! Rajče
+
+//! Rýže jasmínová
 
 //! Sardinky v oleji
 
@@ -34,7 +40,13 @@
 
 //! make it dynamic with any value not only fat
 
+//! mleko 1.5% doupravit double-check, odstredene
+
+//! mleté maso
+
 //! real chicken
+
+//! vitamin c poupravit
 
 //! špenát
 
