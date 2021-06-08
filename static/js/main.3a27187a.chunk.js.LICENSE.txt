@@ -1,3 +1,5 @@
+//! Banán
+
 //! Brokolice
 
 //! Cuketa
@@ -12,8 +14,6 @@
 
 //! Macro
 
-//! Mleko => liquid více variant
-
 //! Paprika červená
 
 //! Rajče
@@ -21,6 +21,8 @@
 //! Rýže jasmínová
 
 //! Sardinky v oleji
+
+//! Svíčková
 
 //! Unifiy all modal windows => one modal and pass content as {child} prop
 
@@ -40,15 +42,25 @@
 
 //! make it dynamic with any value not only fat
 
-//! mleko 1.5% doupravit double-check, odstredene
+//! mleko 1.5% doupravit double-check, odstredene  -HOTOVO-
+
+//! mleté
 
 //! mleté maso
 
+//! panenka
+
+//! plec
+
+//! přední
+
 //! real chicken
 
-//! vitamin c poupravit
+//! zadní
 
-//! špenát
+//! Špenát
+
+//! žebra
 
 //!check if correct for carbs
 
