@@ -46,8 +46,6 @@
 
 //! mleté
 
-//! mleté maso
-
 //! panenka
 
 //! plec
