@@ -1,0 +1,71 @@
+//! Append name to total
+
+//! Banán
+
+//! Brokolice
+
+//! Cuketa
+
+//! Jahoda
+
+//! Krůtí maso
+
+//! Květák
+
+//! Macro
+
+//! Paprika červená
+
+//! Rajče
+
+//! Rýže jasmínová
+
+//! Sardinky v oleji
+
+//! Stará struktura - nekompletní hodnoty na stránce
+
+//! Test Fazole
+
+//! Unifiy all modal windows => one modal and pass content as {child} prop
+
+//! calculate it properly with all the other fats subctracted from this value
+
+//! check for milk 160ml
+
+//! check if eating no saturated fat can be bad
+
+//! convert to same unit
+
+//! create a callback that checks wheter the user (UID) has a UserData document => returns an boolean value => insert to useEffect
+
+//! in smaller values like mcg => dont floor the number
+
+//! invesigate
+
+//! make it dynamic with any value not only fat
+
+//! mleko 1.5% doupravit double-check, odstredene  -HOTOVO-
+
+//! mleté 10%
+
+//! mleté 20%
+
+//! přední (brisket) => hrudí
+
+//! roštěnec (ribeye)
+
+//! zadní (top sirloin)
+
+//! Špenát
+
+//! žebra
+
+//!check if correct for carbs
+
+//!milk shows as 1000g instead od ml
+
+//!panenka
+
+//!redo the unit system
+
+//!write own style on h3
