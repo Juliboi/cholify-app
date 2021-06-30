@@ -1,3 +1,7 @@
+//! ------------------------------------------------------
+
+//! ----------------------Připraveno----------------------
+
 //! Append name to total
 
 //! Banán
@@ -6,11 +10,15 @@
 
 //! Cuketa
 
+//! Fazole
+
 //! Jahoda
 
 //! Krůtí maso
 
 //! Květák
+
+//! Losos
 
 //! Macro
 
@@ -22,9 +30,7 @@
 
 //! Sardinky v oleji
 
-//! Stará struktura - nekompletní hodnoty na stránce
-
-//! Test Fazole
+//! Tofu
 
 //! Unifiy all modal windows => one modal and pass content as {child} prop
 
