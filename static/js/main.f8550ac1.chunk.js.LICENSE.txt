@@ -1,0 +1,83 @@
+//! ------------------------------------------------------
+
+//! ----------------------Připraveno----------------------
+
+//! Append name to total
+
+//! Banán
+
+//! Brokolice
+
+//! Cuketa
+
+//! Fazole
+
+//! Jahoda
+
+//! Krůtí maso
+
+//! Květák
+
+//! Losos
+
+//! Macro
+
+//! Paprika červená
+
+//! Rajče
+
+//! Rýže jasmínová
+
+//! Sardinky v oleji
+
+//! Tofu
+
+//! Unifiy all modal windows => one modal and pass content as {child} prop
+
+//! a piece or whole head
+
+//! calculate it properly with all the other fats subctracted from this value
+
+//! check if eating no saturated fat can be bad
+
+//! convert to same unit
+
+//! differentiate the food by TWO id's (foodId => getting the nutrition value, etc.. itemId => random hashed id for specific items => created after adding the item to foodList)
+
+//! in smaller values like mcg => dont floor the number
+
+//! invesigate
+
+//! jedla sůl
+
+//! make it dynamic with any value not only fat
+
+//! mleko 1.5% doupravit double-check, odstredene  -HOTOVO-
+
+//! mleté 10%
+
+//! mleté 20%
+
+//! pass as a food object => then destrucure
+
+//! přední (brisket) => hrudí
+
+//! real chicken
+
+//! roštěnec (ribeye)
+
+//! zadní (top sirloin)
+
+//! Špenát
+
+//! žebra
+
+//!check if correct for carbs
+
+//!milk shows as 1000g instead od ml
+
+//!panenka
+
+//!redo the unit system
+
+//!write own style on h3
