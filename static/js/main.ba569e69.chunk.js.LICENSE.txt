@@ -8,11 +8,15 @@
 
 //! Brokolice
 
+//! Bílý jogurt
+
 //! Cuketa
 
 //! Fazole
 
 //! Jahoda
+
+//! Krevety
 
 //! Krůtí maso
 
@@ -63,6 +67,8 @@
 //! real chicken
 
 //! roštěnec (ribeye)
+
+//! treska
 
 //! zadní (top sirloin)
 
